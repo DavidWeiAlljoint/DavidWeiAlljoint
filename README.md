@@ -59,7 +59,7 @@ financial research tool). Details on request.
 
 ## Earlier
 
-- **Lost & Found Lady (失物小姐)**: LoRa/Sigfox tracker tags for everyday items. Shut down after Apple AirTag launched.
+- **Lost & Found Lady (失物小姐), 2015–2016**: LoRa/Sigfox tracker tags for everyday items. Shut down after Apple AirTag launched.
 - Early founding member of **Hackathon Taiwan**; mentored open-source and incubator teams.
 - First business, in high school: automation bots for an online game, sold through forum word of mouth with a built-in referral feature (friend shares it, first month free).
 
