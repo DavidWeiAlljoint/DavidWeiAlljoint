@@ -21,6 +21,30 @@ with real customer data. This page is the public index.
 | [ins.alljoint.tw](https://ins.alljoint.tw) | Mobile quiz app for Taiwan insurance-agent certification exams. | Single static HTML, Supabase (Google login + RLS) |
 | [alljoint.tw](https://alljoint.tw) | Company site. | Next.js |
 
+## Product tour: work.btf.tw
+
+Screenshots from the demo tenant (test data). The product is a multi-tenant SaaS: each store brand gets its own tenant, and can bring its own LINE official account, email sender and custom domain.
+
+**Owner dashboard**: onboarding checklist, revenue today/week/month, open shifts, headcount.
+
+![Owner dashboard](img/boss-dashboard.jpg)
+
+**Operations report**: revenue vs. payroll cost, labor-cost ratio, hours, attendance rate, staffing gaps, CSV export.
+
+![Operations report](img/boss-reports.jpg)
+
+**Payroll**: monthly payroll computed from clock-in hours and per-shift sales bonuses, Taiwan overtime multipliers, payslip generation and sign-off, bonus tiers per store.
+
+![Payroll](img/boss-payroll.jpg)
+
+**Employee shift claiming**: staff claim weekday shifts instantly; weekend and holiday shifts go through manager approval with a monthly quota.
+
+![Shift claiming](img/emp-grab.jpg)
+
+**Integration center (white-label)**: per-tenant LINE Messaging API credentials and webhook, web push, custom email sender via Resend, custom domain with automatic SSL.
+
+![Integration center](img/boss-integrations.jpg)
+
 ## In progress
 
 Several more vertical SaaS products for SMBs are in development (logistics and
