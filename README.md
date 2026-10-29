@@ -2,11 +2,12 @@
 
 Founder of **BTF Culture & Creative (傲嬌文創)** and **Alljoint (傲嬌軟體)**, Taipei.
 
-I run a one-person software company. Over the past year I built an AI-agent
-development workflow (Claude Code + Codex, with Claude planning/reviewing and
-Codex implementing) and used it to ship and operate several production SaaS
-products for Taiwanese SMBs, plus dozens of internal tools that automate most
-of my company's day-to-day operations.
+Founded Alljoint in 2016 and grew it to a team of 15 engineers at its peak,
+building software for clients and our own products. Today I run it lean: over
+the past year I built an AI-agent development workflow (Claude Code + Codex,
+with Claude planning/reviewing and Codex implementing) and use it to ship and
+operate several production SaaS products for Taiwanese SMBs, plus dozens of
+internal tools that automate most of the company's day-to-day operations.
 
 Most of my product code lives in private repos because it runs real businesses
 with real customer data. This page is the public index.
@@ -22,10 +23,9 @@ with real customer data. This page is the public index.
 
 ## In progress
 
-- **AI stock screener (TW + US)**: post-market quant and fundamental screening, with Claude-generated plain-Chinese rationale. Multi-tenant.
-- **Bonded-warehouse cigar WMS**: batch/vintage tracking, customs bonded ledger export, per-country export compliance checks.
-- **Rotary club event registration SaaS**: multi-tenant, row-level isolation per club.
-- **Hotel management system** prototype.
+Several more vertical SaaS products for SMBs are in development (logistics and
+compliance, membership and event management, hospitality, and an AI-assisted
+financial research tool). Details on request.
 
 ## How I work
 
